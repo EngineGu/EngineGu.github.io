@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MPhil student at <a href='https://www.civil.hku.hk/index.html'>the University of Hong Kong</a>
+subtitle: MPhil student at the <a href='https://www.civil.hku.hk/index.html'>University of Hong Kong</a>
 
 profile:
   align: right
