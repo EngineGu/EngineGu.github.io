@@ -115,14 +115,11 @@
       "level": "Novice Researcher",
       "icon": "",
       "keywords": [
-        "Systems Engineering",
+        "Vehicle Routing and Scheduling",
         "Operations Research",
         "Logistics and Supply Chain Management",
-        "Transportation Planning and Policy",
-        "Software Development",
-        "Data Analysis and Modeling",
-        "Artificial Intelligence and Machine Learning",
-        "Sustainability and Environmental Impact"
+        "Heuristic Algorithms",
+        "Data Analysis and Modeling"
       ]
     }
   ],
@@ -148,14 +145,11 @@
       "name": "Transport Studies",
       "icon": "",
       "keywords": [
-        "Systems Engineering",
+        "Vehicle Routing and Scheduling",
         "Operations Research",
         "Logistics and Supply Chain Management",
-        "Transportation Planning and Policy",
-        "Software Development",
-        "Data Analysis and Modeling",
-        "Artificial Intelligence and Machine Learning",
-        "Sustainability and Environmental Impact"
+        "Heuristic Algorithms",
+        "Data Analysis and Modeling"
       ]
     }
   ],

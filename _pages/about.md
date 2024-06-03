@@ -26,6 +26,6 @@ I hold a BSc in Logistics Management at Wuhan University (2021) and a MSc in Bus
 
 Research interests:
 
-- **Dynamic Traffic Assignment**
+- **Modular Autonomous Vehicles**
 - **Intelligent Transportation Systems**
 - **Transport Network Design**
