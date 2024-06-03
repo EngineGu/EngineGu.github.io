@@ -31,7 +31,7 @@
       "endDate": "2022-05-01",
       "summary": "Modeled emergency service routing and capacity allocation with limited vehicle, hard time windows and multiple round trips, in order to minimize the total waiting time costs and unsaved demands. Compared the separated routing schemes and the integrated routing schemes, to find out the influence of the combination of vehicles on the delivery efficiency. Designed Genetic Algorithm with cross-over and mutation strategies after splitting the demands and encoding the vehicle’s trajectory.",
       "highlights": ["Emergency Service Routing", "Genetic Algorithm Design", "Efficiency Analysis"]
-    }    
+    }
   ],
   "work": [
     {
@@ -71,8 +71,7 @@
       "highlights": ["Product Classification", "Price Forecasting", "Data Visualization"]
     }
   ],
-  "volunteer": [
-  ],
+  "volunteer": [],
   "education": [
     {
       "institution": "The University of Hong Kong",
@@ -83,9 +82,7 @@
       "startDate": "2021-08-01",
       "endDate": "2022-07-01",
       "score": "3.82",
-      "courses": [
-        "Data Science"
-      ]
+      "courses": ["Data Science"]
     },
     {
       "institution": "Wuhan University",
@@ -96,9 +93,7 @@
       "startDate": "2017-08-01",
       "endDate": "2021-06-01",
       "score": "3.64",
-      "courses": [
-        "Science in Logistics Management"
-      ]
+      "courses": ["Science in Logistics Management"]
     },
     {
       "institution": "University of British Columbia",
@@ -109,16 +104,11 @@
       "startDate": "2019-07-01",
       "endDate": "2019-08-01",
       "score": "",
-      "courses": [
-        "Business Analytics", 
-        "Operations and Supply Chain Strategy"
-      ]
+      "courses": ["Business Analytics", "Operations and Supply Chain Strategy"]
     }
   ],
-  "certificates": [
-  ],
-  "publications": [
-  ],
+  "certificates": [],
+  "publications": [],
   "skills": [
     {
       "name": "Transport Studies",

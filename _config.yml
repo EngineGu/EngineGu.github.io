@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Yingying
-middle_name: 
+middle_name:
 last_name: Sun
 email: syy963@connect.hku.hk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -110,8 +110,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-    Email is the best way to reach me: <a href="mailto:syy963@connect.hku.hk">syy963@connect.hku.hk</a>. Feel free to send me a message!
-
+  Email is the best way to reach me: <a href="mailto:syy963@connect.hku.hk">syy963@connect.hku.hk</a>. Feel free to send me a message!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
