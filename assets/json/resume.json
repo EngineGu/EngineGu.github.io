@@ -1,157 +1,144 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Yingying Sun",
+    "label": "Researcher",
+    "image": "prof_pic.jpg",
+    "email": "syy963@connect.hku.hk",
+    "phone": "",
+    "url": "https://github.com/blingblingSyy",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Rm 622 Haking Wong Building, The University of Hong Kong",
+      "postalCode": "",
+      "city": "Hong Kong",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
+  "research ": [
+    {
+      "name": "Faculty of Business and Economics, The University of Hong Kong",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2022-02-01",
+      "endDate": "2022-05-01",
+      "summary": "Modeled emergency service routing and capacity allocation with limited vehicle, hard time windows and multiple round trips, in order to minimize the total waiting time costs and unsaved demands. Compared the separated routing schemes and the integrated routing schemes, to find out the influence of the combination of vehicles on the delivery efficiency. Designed Genetic Algorithm with cross-over and mutation strategies after splitting the demands and encoding the vehicle’s trajectory.",
+      "highlights": ["Emergency Service Routing", "Genetic Algorithm Design", "Efficiency Analysis"]
+    }    
+  ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Huawei Corporation",
+      "position": "Data Engineer, AI module of Procurement Data Management Department",
+      "url": "",
+      "startDate": "2022-07-01",
+      "endDate": "2022-12-01",
+      "summary": "Participated in the design of production scheduling tools, optimizing the suppliers’ capacity adjustment with daily production quantities, assisting in supplier risk control and demand plan evaluation. Used a production flow network to capture each item group's flow across sections, and constructed three large-scale mixed integer programming models in hierarchy. Designed an object-oriented code structure and created a register which enables dynamic modeling. Explored an algorithmic combination of Lagrangian Decomposition and column generation to accelerate the solution, which relaxes the flow-balance constraint to the target and disintegrates the parallel capacity for each item group.",
+      "highlights": ["Production Scheduling Tool Design", "Risk Control", "Demand Plan Evaluation"]
+    },
+    {
+      "name": "Xiaomi Corporation",
+      "position": "Project Management Intern, AI Department",
+      "url": "",
+      "startDate": "2021-01-01",
+      "endDate": "2021-03-01",
+      "summary": "Responsible for the project of Xiao Ai smart watch version update, divided the repair work by product function, and designed Gantt chart to control and visualize the project cycle in determination of important handover time points. Regularly sorted the bugs in processing by product functions and visualized the bug processing speed with box plot, in order to find out the work that affect the overall project process.",
+      "highlights": ["Project Management", "Gantt Chart", "Bug Processing"]
+    },
+    {
+      "name": "Kraftheinz (China) Investment Ltd.",
+      "position": "Online Biding Procurement Assistant",
+      "url": "",
+      "startDate": "2020-06-01",
+      "endDate": "2020-09-01",
+      "summary": "Responsible for risk controlling and bidding price monitoring to analyze and alleviate the information asymmetry of suppliers for the first party. Filtered the suitable candidates from the massive raw data in terms of their past business with the company; Retrieved historical prices of similar projects to construct reasonable ranges of the bidding prices and wrote a VBA program to automatically filter excessive or low prices; Participated in supplier evaluation from multiple dimensions to form a comparison chart of candidate supplier qualifications, and to score them with weights, preparing for future cooperations.",
+      "highlights": ["Risk Control", "Price Monitoring", "Supplier Evaluation"]
+    },
+    {
+      "name": "Johnson & Johnson (China) Investment Ltd.",
+      "position": "Part-time Assistant for Sourcing Manager",
+      "url": "",
+      "startDate": "2019-12-01",
+      "endDate": "2020-02-01",
+      "summary": "Classification: used VBA to classify products into different purchase category by filtering out and extracting the key words in the product description or identifying similar features in product clusters; Forecasting: used exponential smoothing model as benchmark model to forecast the price of raw materials based on ten years’ data and visualize the pricing trend of the product.",
+      "highlights": ["Product Classification", "Price Forecasting", "Data Visualization"]
     }
   ],
   "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
+      "institution": "The University of Hong Kong",
+      "location": "Hong Kong, China",
+      "url": "https://www.hku.hk/",
+      "area": "Business Analytics",
+      "studyType": "Master's Degree",
+      "startDate": "2021-08-01",
+      "endDate": "2022-07-01",
+      "score": "3.82",
+      "courses": [
+        "Data Science"
+      ]
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "Wuhan University",
+      "location": "Wuhan, China",
+      "url": "https://www.whu.edu.cn/",
+      "area": "Logistics Management",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2017-08-01",
+      "endDate": "2021-06-01",
+      "score": "3.64",
+      "courses": [
+        "Science in Logistics Management"
+      ]
+    },
+    {
+      "institution": "University of British Columbia",
+      "location": "Vancouver, Canada",
+      "url": "https://www.ubc.ca/",
+      "area": "Business Analytics; Operations and Supply Chain Strategy",
+      "studyType": "Exchange Program",
+      "startDate": "2019-07-01",
+      "endDate": "2019-08-01",
+      "score": "",
+      "courses": [
+        "Business Analytics", 
+        "Operations and Supply Chain Strategy"
+      ]
     }
   ],
   "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
   ],
   "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Transport Studies",
+      "level": "Novice Researcher",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Systems Engineering",
+        "Operations Research",
+        "Logistics and Supply Chain Management",
+        "Transportation Planning and Policy",
+        "Software Development",
+        "Data Analysis and Modeling",
+        "Artificial Intelligence and Machine Learning",
+        "Sustainability and Environmental Impact"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Mandarin",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -159,42 +146,77 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Cantonese",
+      "fluency": "Conversational",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Transport Studies",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Systems Engineering",
+        "Operations Research",
+        "Logistics and Supply Chain Management",
+        "Transportation Planning and Policy",
+        "Software Development",
+        "Data Analysis and Modeling",
+        "Artificial Intelligence and Machine Learning",
+        "Sustainability and Environmental Impact"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
+      "name": "Professor Szeto, Wai Yuen",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": ""
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Systematic Methods of Logistics Optimization for YOHO",
+      "summary": "Designed an efficient logistics distribution system from a monthly integrated perspective with uploaded pricing contracts and daily orders, giving recommendations based on the features of each logistics order. A 2-stage framework was proposed to first classify the distribution and then heuristically transfer orders among all 3PLs given capacity constraints of each party. Our recommendation system not only improved process automation for YOHO but also helped reduce logistics costs by about 4%.",
+      "highlights": ["Logistics System Design", "Cost Reduction", "Process Automation"],
+      "startDate": "2022-06-01",
+      "endDate": "2022-06-01",
+      "url": ""
+    },
+    {
+      "name": "Face Detection with User Interaction and Local Style Transfer",
+      "summary": "Adopted the Face Detection Data Set and Benchmark (FDDB), preprocessed image data by transforming ellipse bounding boxes to rectangles, converting image channels to RGB mode, and padding images to equal size. Trained with Single Shot Detector to achieve multi-face detection within one picture and designed a Graphical Interface for users to extract the target face for local style transformations. Achievements include enabling users to select, edit, and apply styles to faces in images.",
+      "highlights": ["Face Detection", "User Interaction", "Style Transfer"],
+      "startDate": "2022-04-01",
+      "endDate": "2022-04-01",
+      "url": ""
+    },
+    {
+      "name": "House Price Estimation (Kaggle Competition)",
+      "summary": "Utilized Pyspark on Databricks to clean data and establish various machine learning models, such as Lasso Regression and Xgboost, to estimate house prices. Defined a benchmark model with Comparative Market Analysis combined with KNN by a balancing coefficient to simulate variations of pricing bias in the traditional real estate industry. Achieved accuracy of over 85% with Xgboost, ranking in the top 15% in the Kaggle competition.",
+      "highlights": ["Machine Learning", "Real Estate Analysis", "Kaggle Competition"],
+      "startDate": "2022-02-01",
+      "endDate": "2022-02-01",
+      "url": ""
+    },
+    {
+      "name": "A study on OBM’s procurement outsourcing strategy under information asymmetry and product substitutability",
+      "summary": "Explored OBM's procurement strategies when outsourcing to a competitive supplier under cost information asymmetry in a three-tier supply chain. Modeled the problem as a game of reverse selection and redesigned the contract setting for OBM, finding conditions for an economically efficient contract that satisfies both incentive compatibility and individual rationality constraints, reaching equilibrium in the quantity game. This study also discusses the impact of information asymmetry on procurement strategies.",
+      "highlights": ["Procurement Strategy", "Game Theory", "Contract Design"],
+      "startDate": "2021-04-01",
+      "endDate": "2021-04-01",
+      "url": ""
+    },
+    {
+      "name": "The 5th National College Logistics Simulation Design Competition",
+      "summary": "Developed optimization strategies by conducting logistics simulations on a cloud platform, involving commodity similarity analysis for storage region arrangement, using ABC classification for commodity orders, and determining the procurement strategy for each type of commodity based on order frequency. Constructed a robot picking route optimization model by balancing total operation costs and fair assignment of tasks among robots, considering robot power consumption constraints. Won 1st Prize of Provincial Trails in the competition.",
+      "highlights": ["Logistics Simulation", "Robot Route Optimization", "Competition Winner"],
+      "startDate": "2019-11-01",
+      "endDate": "2019-11-01",
+      "url": ""
     }
+    
   ]
 }
