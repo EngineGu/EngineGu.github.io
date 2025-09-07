@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MPhil student at the <a href='https://www.civil.hku.hk/index.html'>University of Hong Kong</a>
+subtitle: PhD student at <a href='https://www.civil.hku.hk/index.html'>the University of Hong Kong</a>
 
 profile:
   align: right
@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi there! 👋
 
-I'm an MPhil student at the [Department of Civil Engineering](https://www.civil.hku.hk/index.html) at the University of Hong Kong (HKU), under the supervision of [Prof. SZETO, WAI YUEN](https://www.civil.hku.hk/ceszeto).
+I'm a PhD student at the [Department of Civil Engineering](https://www.civil.hku.hk/index.html) at the University of Hong Kong (HKU), under the supervision of [Prof. SZETO, WAI YUEN](https://www.civil.hku.hk/ceszeto).
 
 I hold a BSc in Logistics Management at Wuhan University (2021) and a MSc in Business Analytics at HKU (2022). I'm a member of the [Institute of Transport Studies](https://hub.hku.hk/cris/ou/ou00225) at HKU (since 2023), where I develop research in transportation engineering and logistics.
 
